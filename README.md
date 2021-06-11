@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JHernandez99
-- 👀 I’m interested in IA, pychon, c++, VHDL, c, Java and Processing coding
-- 🌱 I’m currently learning IA and Interfaces with some languages
-- 💞️ I’m looking to collaborate on proyects of robotics and programming hardware
-- 📫 How to reach me ..
+- 👀 I’m interested in IA, Python, C/C++, VHDL, Java and Processing coding
+- 🌱 I’m currently learning AI and Computer Vision
+- 📫 luicholuiyi@hotmail.com
 
 <!---
 JHernandez99/JHernandez99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
