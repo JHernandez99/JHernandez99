@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JHernandez99
-- 👀 I’m interested in IA, Python, C/C++, VHDL, Java and Processing coding
+- 👀 Python, C/C++, VHDL, MATLAB
 - 🌱 I’m currently learning AI and Computer Vision
+- Interested on digital signal processing and hardware development.
 - 📫 luicholuiyi@hotmail.com
 
 <!---
