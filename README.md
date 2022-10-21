@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JHernandez99
+- 👋 Hi, I’m Jose Luis Hernandez Camacho @JHernandez99
 - 👀 Python, C/C++, VHDL, MATLAB
 - 🌱 I’m currently learning AI and Computer Vision
 - Interested on digital signal processing and hardware development.
-- 📫 luicholuiyi@hotmail.com
+- 📫 jl.hernandezcamacho@ugto.mx
+- 
 
 <!---
 JHernandez99/JHernandez99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
