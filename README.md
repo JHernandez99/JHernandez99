@@ -1,22 +1,44 @@
 - 👋 Hi, I’m Jose Luis Hernandez Camacho @JHernandez99
-- 👀 Python, C/C++, VHDL, MATLAB, AWL, KOP, FUP, HTML, CSS, PHP, MySQL.
-- 🌱 Working on Alimentary industry with PLCs and developing apps with AI with Python.
-- Interested on digital signal processing, hardware development, process automation, GUIs, task automation, artificial inteligence and computer vision.
-- 📫 jl.hernandezcamacho@ugto.mx
-- Development boards and microcontrollers:
-    - ESP32
-    - Arduino
-    - FPGA Cyclone III
-    - FPGA Cyclone IV
-    - STM32
-    - PIC18F45K50
-    - PIC16F8777A
-- PLCs:
-    - s7 1500
-    - s7 300
-    - Logo!
-- SCADA
-    - WinCC 7.5 
+Working on Alimentary industry with PLCs, developing apps with Python for the industrial sector, digital signal processing, hardware development, process automation, GUIs, tasks automation, artificial inteligence and computer vision.
+
+Programming languages:
+ [X ]Python 3 years
+ [X] C/C++ 3 years
+ [X] VHDL 1 year
+ [X] MATLAB 2 years
+ [X] AWL, KOP, FUP 1 year
+ [X] HTML, CSS,PHP, MySQL 2 years
+
+Development boards and microcontrollers:
+ [X] ESP32
+ [X] Arduino
+ [X] FPGA Cyclone III
+ [X] FPGA Cyclone IV
+ [X] STM32
+ [X] PIC18F45K50
+ [X] PIC16F8777A
+
+PLCs:
+ [X] s7 1500
+ [X] s7 300
+ [X] Logo!
+
+SCADA:
+ [X] WinCC 7.5
+ [X] LabVIEW
+
+CAD:
+ [X] SolidWorks
+ [X] Autocad
+ [X] Inventor
+
+Robot:
+ [X] Nachi
+ [X] Pegasus
+
+Extra: 
+[X] IO-Link
+[X] VFDs
 <!---
 JHernandez99/JHernandez99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
