@@ -7,8 +7,11 @@ Programming languages:
 - [X] C/C++ 3 years  
 - [X] VHDL 1 year  
 - [X] MATLAB 2 years  
-- [X] AWL, KOP, FUP 1 year  
-- [X] HTML, CSS,PHP, MySQL 2 years  
+- [X] AWL, KOP, FUP 1.5 year  
+- [X] HTML, CSS,PHP 2 years 
+Data bases 
+- [X] SQL Server 
+- [X] MySQL 
   
 Development boards and microcontrollers:  
 - [X] ESP32  
