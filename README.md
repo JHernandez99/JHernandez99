@@ -9,7 +9,8 @@ Programming languages:
 - [X] MATLAB 2 years  
 - [X] AWL, KOP, FUP 1.5 year  
 - [X] HTML, CSS,PHP 2 years 
-Data bases 
+
+Data bases:
 - [X] SQL Server 
 - [X] MySQL 
   
